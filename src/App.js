@@ -12,7 +12,16 @@ function App() {
 
         <footer className="App-footer">
           {" "}
-          <small>Coded by Lauren Taylor</small>{" "}
+          <small>
+            This project was coded by Lauren Taylor and is open-sourced on{" "}
+            <a
+              href="https://github.com/LaurenTaylor92/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </small>{" "}
         </footer>
       </div>
     </div>
